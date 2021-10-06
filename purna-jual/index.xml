@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Purna Jual on Dealer Motor Honda</title>
-    <link>http://example.org/purna-jual/</link>
+    <link>https://dealermotorhonda.github.io/purna-jual/</link>
     <description>Recent content in Purna Jual on Dealer Motor Honda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/purna-jual/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://dealermotorhonda.github.io/purna-jual/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Service</title>
-      <link>http://example.org/purna-jual/service/</link>
+      <link>https://dealermotorhonda.github.io/purna-jual/service/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/purna-jual/service/</guid>
+      <guid>https://dealermotorhonda.github.io/purna-jual/service/</guid>
       <description></description>
     </item>
     
